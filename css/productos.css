@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(81,188,161,1) 35%, rgba(229,195,133,1) 100%);}
+.carameleras{margin: 30px;
+    padding: 20px;
+    color: #b38f79;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    width: 225px;
+    height: 70px;
+    background-color: black;
+    display: flex;  
+    flex-direction: row; 
+    justify-content: center;     
+}
+.canastos{margin: 30px;
+    padding: 20px;
+    color: #b38f79;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    width: 175px;
+    height: 70px;
+    background-color: black;
+    display: flex;  
+    flex-direction: row; 
+    justify-content: center;     
+}
+.floreros{margin: 30px;
+    padding: 20px;
+    color: #b38f79;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    width: 175px;
+    height: 70px;
+    background-color: black;
+    display: flex;  
+    flex-direction: row; 
+    justify-content: center;     
+}
+.centros{margin: 30px;
+    padding: 20px;
+    color: #b38f79;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    width: 300px;
+    height: 70px;
+    background-color: black;
+    display: flex;  
+    flex-direction: row; 
+    justify-content: center;     
+}
+.espejos{margin: 30px;
+    padding: 20px;
+    color: #b38f79;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    width: 150px;
+    height: 70px;
+    background-color: black;
+    display: flex;  
+    flex-direction: row; 
+    justify-content: center;     
+}
+.relojes{margin: 30px;
+    padding: 20px;
+    color: #b38f79;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    width: 150px;
+    height: 70px;
+    background-color: black;
+    display: flex;  
+    flex-direction: row; 
+    justify-content: center;     
+}

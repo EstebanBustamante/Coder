@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(81,188,161,1) 35%, rgba(229,195,133,1) 100%);}
+ul {
+    list-style: none;
+    padding:20px;
+    background-color: black;
+    font-size: 0;
+    }
+    li{display: inline-block;
+        width: 20%;
+        position:relative;
+        font-size: 30px;
+    }
+a{text-decoration: none;
+        color: white;
+        font-family: 'Dancing Script', cursive;
+        font-size: 24px;
+        display: flex;  
+        flex-direction: row; 
+        justify-content:space-around;}
+a:hover{color: #e5c385}
+.destacados{margin: 30px;
+            padding: 20px;
+            color: #b38f79;
+            font-family: 'Dancing Script', cursive;
+            font-size: 35px;
+            width: 225px;
+            height: 70px;
+            background-color: black;
+            display: flex;  
+            flex-direction: row; 
+            justify-content: center;     
+        }
+.ofertas{margin: 30px;
+            padding: 20px;
+            color: #b38f79;
+            font-family: 'Dancing Script', cursive;
+            font-size: 35px;
+            width: 150px;
+            height: 70px;
+            background-color: black;
+            display: flex;  
+            flex-direction: row; 
+            justify-content: center;     
+        }
+    img{width: 250px;
+            height: 350px;
+            border: 2px double grey;
+            }
+    main{
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: space-around;
+            }
+    img:hover{
+            opacity: 1;
+            border: solid black 2px;
+            }
